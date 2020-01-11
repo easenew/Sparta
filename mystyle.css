@@ -1,0 +1,19 @@
+*{
+	font-family: 'Song Myung', serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: left;
+}
+.item{
+background-size: cover;
+background-position: center;
+width: 600px;
+height: 200px;
+border-radius: 10px;
+
+}
+.form-post{
+display: auto;
+
+}
